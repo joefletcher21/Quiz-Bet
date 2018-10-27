@@ -4,8 +4,6 @@
 Flashcard mobile app for Android
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="https://media.giphy.com/media/ONHqT8jQxqirX6J2Pl/giphy.gif" width=200><br>
 
 ## Required
